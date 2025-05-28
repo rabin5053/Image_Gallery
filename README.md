@@ -225,14 +225,38 @@ Publish the website in the given URL.
 </html>
 ```
 # OUTPUT:
-![alt text](<Screenshot 2024-12-23 143952.png>)
-![alt text](<Screenshot 2024-12-23 144011.png>)
-![alt text](<Screenshot 2024-12-23 144019.png>)
-![alt text](<Screenshot 2024-12-23 144211.png>)
-![alt text](<Screenshot 2024-12-23 144043.png>)
-![alt text](<Screenshot 2024-12-23 144055.png>)
-![alt text](<Screenshot 2024-12-23 144106.png>)
-![alt text](<Screenshot 2024-12-23 144115.png>)
-![alt text](<Screenshot 2024-12-23 144126.png>)
+![image](https://github.com/user-attachments/assets/e970f58a-77e2-4ebb-92ee-b1ddc050c7da)
+
+![image](https://github.com/user-attachments/assets/adac8ddc-1b86-4e35-920f-96a23a4712ef)
+
+![image](https://github.com/user-attachments/assets/d3c84dee-f22e-435a-ad32-ddf26c914d1e)
+
+![image](https://github.com/user-attachments/assets/1c52f142-c469-400d-b2b9-691d98b5a922)
+
+![image](https://github.com/user-attachments/assets/6511ae33-3f7c-4628-9041-4c8ef6711808)
+
+![image](https://github.com/user-attachments/assets/ad078668-1d43-4207-b00c-2994e224aa68)
+
+![image](https://github.com/user-attachments/assets/797191a3-389b-4730-b7c0-1b670fa29899)
+
+![image](https://github.com/user-attachments/assets/41e187b0-df15-46e1-a951-b233f70fc783)
+
+![image](https://github.com/user-attachments/assets/b7ff5d81-841f-49d0-af6f-c87f065d325a)
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
 # RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
